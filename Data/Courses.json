@@ -1,0 +1,10 @@
+[
+  {
+    "CourseNumber": 2,
+    "Title": "test",
+    "LengthWeeks": 20,
+    "StartDate": "2026-10-11",
+    "EndDate": "2027-10-13",
+    "Type": 1
+  }
+]
